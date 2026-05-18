@@ -11,3 +11,9 @@ Olá! Sou formada em Multimídia pela Etec de Carapicuíba (2024) e, atualmente,
 ![](https://github-readme-stats.shion.dev/api?username=larahgabriella03&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=larahgabriella03&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=larahgabriella03&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/larahgabriella03/larahgabriella03/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/larahgabriella03/larahgabriella03/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/larahgabriella03/larahgabriella03/output/github-contribution-grid-snake.svg">
+</picture>
